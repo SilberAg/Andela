@@ -1,0 +1,12 @@
+#!python assignment 1
+seq=[]
+for x in rane(2000,3200):
+    if x % 7 == 0;
+      seq.append(x)
+print(seq)
+
+#!python assignment 2
+text = input("Please input your text here:\n")
+print(text.upper())
+
+
